@@ -11,8 +11,7 @@ Paths are the acceptable values for:
 * the environment in .terry files
 * the environment in vista.xml files
 
-Updated 05/04/2020
-
+<small>Updated 05/04/2020</small>
 | Label | Path |
 | --- | --- |
 | Arnheim 01 | weather/battle/wh_arnheim_01.environment |
