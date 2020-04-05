@@ -4,7 +4,7 @@ JerryS is a platform for in-browser modding tools for Total War: Warhammer's map
 
 _____________________
 ## Total War: Warhammer 2
-[Environments](./wh2-environment.html)
+[Environments](./wh2-environments.html)
 
 _____________________
 ## Tools
