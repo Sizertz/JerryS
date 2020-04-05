@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <title>TEST</title>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <section>
+        <h1 id="title">Environment Tools</h1>
+        <p>Local in-browser tools for extracting hidden environments.</p>
+        <ol>
+            <li>in RPFM, open all CA packs</li>
+            <li>export the weather/battle folder to a new folder on your computer</li>
+            <li>select that folder in the following input: </li>
+            <input id="environmentDirInput" type="file" webkitdirectory onchange="onSubmitEnvironments()" />
+            <li>run whichever tool you want:</li>
+        </ol>
+    </section>
+    <section>
+        <h2>Markdown table of environments
+            <input type="button" value="Generate" onclick="generateEnvironmentTable()">
+        </h2>
+        <pre>
+            <script id="environmentTable" type="text/plain" style="display:block"></script>
+        </pre>
+    </section>
+    <section>
+        <h2>environment_files.xml
+            <input type="button" value="Generate" onclick="generateEnvironmentFilesXml('environmentFilesXml')">
+        </h2>
+        <pre>
+            <script id="environmentFilesXml" type="text/plain" style="display:block"></script>
+        </pre>
+    </section>
+</body>
+
+</html>
