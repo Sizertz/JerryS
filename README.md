@@ -12,5 +12,5 @@ _____________________
 
 _____________________
 ## Free Stuff!
-[Free Stuff!](./free-stuff)
+[Free Stuff!](./free-stuff.html)
 

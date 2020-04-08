@@ -12,6 +12,7 @@ Paths are the acceptable values for:
 * the environment in vista.xml files
 
 <small>Updated 05/04/2020</small>
+
 | Label | Path |
 | --- | --- |
 | Arnheim 01 | weather/battle/wh_arnheim_01.environment |
