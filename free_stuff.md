@@ -1,7 +1,4 @@
----
-title: FREE STUFF!!!
----
-# {{ page.title }}
+# FREE STUFF!!!
 
 {% for stuff in site.free_stuff %}
 ____

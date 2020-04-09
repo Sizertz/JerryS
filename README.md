@@ -1,16 +1,19 @@
 # JerryS
 
-JerryS is a platform for in-browser modding tools for Total War: Warhammer's map editor 
+JerryS is a platform for map making tutorials and tools for Total War: Warhammer
+
+It is in the very early stages.
 
 _____________________
 ## Total War: Warhammer 2
-[Environments](./wh2-environments.html)
+[Extended Map .pack File](./wh-extended-map-pack.html)
+
+[WH2 Environment List](./wh2-environments.html)
+
+_____________________
+## Free Stuff!
+[Free Stuff!](./free_stuff.html)
 
 _____________________
 ## Tools
 [Environment Tools](./environment-tools.html)
-
-_____________________
-## Free Stuff!
-[Free Stuff!](./free-stuff.html)
-
